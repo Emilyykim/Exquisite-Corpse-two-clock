@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻 clock 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,18 +29,48 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
-- Published webpage for stage 1:
+- Name/Alias: Seoyoung Kim
+- Github account:https://github.com/Emilyykim
+- Published webpage for stage 1: (https://emilyykim.github.io/Exquisite-Corpse-stage-one---one/)
+ # Chromatic Clock
 
-*... comments to be added here*
+This project is a unique representation of time using a color-changing background. The clock runs on a 10-second cycle, where the hue of the background changes from 0 to 360 degrees on the HSB colour scale. This visual change gives an unconventional yet constant sense of time passing.
+
+## Instructions
+
+- Clone the repository.
+- Open `index.html` in a web browser to view the clock.
+
+## Concept
+
+Time is often perceived through changes in our environment. This clock visualizes time through continuous and smooth colour transitions, creating a new way to experience the passage of seconds.
+
 
 ### 🟨 Stage 2
-- Name/Alias:
-- Github account:
-- Published webpage for stage 2:
+- Name/Alias: Cat Hayward
+- Github account: https://github.com/cathayward
+- Published webpage for stage 2: https://cathayward.github.io/exquisite-corpse-stage--1---starcycle-/
 
-*... comments to be added here*
+# Celestial Clock
+
+This project presents an unconventional representation of time using a dynamic display of celestial images and star patterns. The "Celestial Clock" uses a continuous cycle to display images of nebulae, black holes, and supernovas, interspersed with randomly appearing stars, to create a constantly changing visual experience.
+
+## Instructions
+
+- Clone the repository.
+- Open `index.html` in a web browser to view the clock.
+
+## Concept
+
+The passage of time is represented through the changing and moving images of celestial objects, reflecting the ongoing cycles and transformations in the universe. Adding a starry background that evolves emphasizes the dynamic nature of space.
+
+## Changes from Inherited Work
+
+- Maintained the sequential display of celestial images.
+- Added animated horizontal movement for images.
+- Introduced a trailing effect for a more dynamic background.
+- Modified star drawing to occur consistently, enhancing the visual experience.
+- Enhanced image display logic to include motion and direction changes.
 
 ### 🟩 Stage 3
 - Name/Alias:
